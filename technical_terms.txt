@@ -1,0 +1,11 @@
+API (Application Programming Interface): A set of rules and tools for building software applications, allowing model
+CUDA (Compute Unified Device Architecture): A parallel computing platform and application programming interfacemodel
+TTS (Text-to-Speech): A technology that converts written text into spoken words, enabling devices to read text aloud
+OAuth: An open standard for access delegation, commonly used as a way to grant websites or applications limitedaccess 
+REST (Representational State Transfer): An architectural style for designing networked applications that reliesstatel
+Machine Learning: A subset of artificial intelligence that enables systems to learn from data, improve performance on
+Deep Learning: A specialized area of machine learning that uses neural networks with many layers (deep architectures)
+Neural Networks: A series of algorithms that attempt to recognize underlying relationships in a set of data through a
+Data Science: An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract 
+Big Data: Large and complex data sets that traditional data processing applications cannot handle, often characteriz
+Cloud Computing: The delivery of computing services over the internet (the cloud), allowing users to access andstore
